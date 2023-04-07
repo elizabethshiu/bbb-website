@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#photos/videos
+public/images/
+public/videos/
+src/images/
